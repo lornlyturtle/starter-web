@@ -21,3 +21,6 @@ Modify deployment
 Change 2: Adding Deployment Text
 
 ## How to contribute
+
+### Copyright
+Copyright (C) 2021
