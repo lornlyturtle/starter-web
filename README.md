@@ -26,4 +26,4 @@ Change 2: Adding Deployment Text
 Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
-Copyright (C) 2021
+Copyright (C) 2021.  All rights reserved
