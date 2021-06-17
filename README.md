@@ -7,6 +7,7 @@ This repository is for showing how Git and GitHub work
 
 Change 4
 Adding info to the Introduction
+Doing an emergency fix
 
 ## Purpose
 
